@@ -64,7 +64,6 @@ directory.
 ```
 wget http://angjookanazawa.com/cachedir/hmmr/hmmr_models.tar.gz && tar -xf hmmr_models.tar.gz
 ```
-
 2. Download the `demo_data` videos. Place the `demo_data` folder as a top-level
 directory.
 
@@ -96,7 +95,7 @@ Alternatively you can specify the output directory as well. See `demo_video.py`
 
 ### Training code
 
-Coming soon.
+See [doc/train](doc/train.md).
 
 ### Data
 
